@@ -1,0 +1,27 @@
+div.mainBody {width: 1000px; height: 900px; margin-left: 200px; }
+div.columns{background-color: #E0FFE5; width: 1000px; 
+    height: 900px; box-shadow:10px 10px 20px -1px rgb(114, 114, 114)}
+div.leftColumn { float: left; width: 30%; height: 100% ;background-color: #FFF9D8}
+aside.rightColumn {float:left; width: 70%; height: 100% ;font-size: 20px}
+header.foto{text-align:center; padding-top:5%; background-color: white;}
+main.information{text-align: left; }
+h1.name{font-family: Arial, Helvetica, sans-serif;}
+h3.list{background-color: rgb(157, 165, 42); text-align:center; width: 150px; margin-left: 75px;}
+h3.chapter{background-color: rgb(157, 165, 42); text-align:center; width:200px; margin-left:125px;} 
+ul.list{font-family:Arial, Helvetica, sans-serif; margin-left:20px;list-style-type: square}
+li.phone {list-style-image: url("images/phone.png" );}
+li.email {list-style-image: url("images/email.png" );}
+li.discord{list-style-image: url("images/discord.png");}
+article.aboutMyself{margin-left: 100px; margin-top: 20px;margin-right: 100px;}
+section.education{margin-left: 100px; margin-top: 20px;margin-right: 100px;}
+section.code{margin-left: 100px; margin-top: 20px;margin-right: 100px;}
+a.generalSecondary{color:blue;}
+a.higherEducacion{color:blue;}
+ul.educacion{list-style-type:square}
+section.github{margin-left:100px}
+section.year{margin-left:200px}
+section.RSschool{margin-left:250px}
+footer.footer{ display:flex; background-color:black}
+figure.github{text-align:center}
+figcaption.github{color:blanchedalmond}
+h4.year{color:blanchedalmond; font-family: Arial, Helvetica, sans-serif;}
