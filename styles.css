@@ -18,9 +18,9 @@ section.code{margin-left: 100px; margin-top: 20px;margin-right: 100px;}
 a.generalSecondary{color:blue;}
 a.higherEducacion{color:blue;}
 ul.educacion{list-style-type:square}
-section.github{margin-left:100px}
+div.github{margin-left:100px}
 section.year{margin-left:200px}
-section.RSschool{margin-left:250px}
+div.RSschool{margin-left:250px}
 footer.footer{ display:flex; background-color:black}
 figure.github{text-align:center}
 figcaption.github{color:blanchedalmond}
